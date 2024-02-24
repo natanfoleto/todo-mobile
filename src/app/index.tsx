@@ -116,7 +116,7 @@ export default function Home() {
                 <Image source={clipboard} />
 
                 <Text className="mt-4 text-zinc-500 font-bold">Você ainda não tem tarefas criadas</Text>
-                <Text className="text-zinc-600">Crie tarefas e organize sesus itens a fazer</Text>
+                <Text className="text-zinc-600">Crie tarefas e organize seus itens a fazer</Text>
               </View>
             )}
           />
